@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c0e9ad81-5759-4d49-8840-864e7886df68/resourceGroups/react-dashboard/providers/Microsoft.Web/sites/react-dash",
+    "appService.deploySubpath": "."
+}
